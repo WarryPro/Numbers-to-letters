@@ -1,2 +1,2 @@
 # numbers-to-letters-
-Numbers to words converter
+Program to convert a given number into words with JS
